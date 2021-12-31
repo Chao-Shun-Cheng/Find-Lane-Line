@@ -1,6 +1,6 @@
 # Find-Lane-Line
 This project is to use *openCV* library and *Python* to detect the road-lane-line.  
-### Data pipeline
+### Data Pipeline
 ***Step one*** : Color Selection  
 ***Step two*** : Canny Edge Detection  
 ***Step three*** : Region of Interest  
